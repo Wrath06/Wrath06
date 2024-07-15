@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Wrath06
-- 👀 I’m interested in devops and full stack
-- 🌱 I’m currently learning aws cloud and devops tools
-- 💞️ I’m looking to collaborate on depolying websites on to cloud
+
 - 📫 How to reach me saikrishna08127@gmail.com
 
 <!---
